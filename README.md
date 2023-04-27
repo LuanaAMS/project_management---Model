@@ -49,3 +49,12 @@ https://www.euax.com.br/2019/01/exemplo-de-escopo-de-projeto/
 #### > Levantamento de Requisitos
 
 ![image](https://user-images.githubusercontent.com/74381091/227198558-6626e98f-7067-42a5-a0fd-ffcf9b14b0bf.png)
+
+#### > Atualização de planos
+
+O que nós prometemos fazer (planejado)?
+O que foi realmente feito (realizado)?
+Por que foi feito de modo diferente (análise do desvio)?
+O que foi feito para corrigir os erros (medidas de ajuste adotadas)?
+O que ainda precisa ser feito para corrigir os erros/desvios cujas causas estão fora da nossa governabilidade (demanda por operações)?
+Quais os nossos compromissos e metas para o próximo período (atualização do plano)?
