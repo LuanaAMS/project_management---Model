@@ -1,7 +1,7 @@
 # Gestão de projetos - Arquivos
 
 # Modelo - Escopo de projeto
-Repositório para organização dos dados do 
+Repositório para organização dos dados do _nome do projeto_
 
 #### > Justificativa de projeto
 Conjunto de argumentos que comprovam a necessidade do projeto.
